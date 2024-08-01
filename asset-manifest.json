@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/apple-react/static/css/main.af9c1481.css",
+    "main.js": "/apple-react/static/js/main.076695d6.js",
+    "static/js/453.171ddc7f.chunk.js": "/apple-react/static/js/453.171ddc7f.chunk.js",
+    "static/media/wireless headset.png": "/apple-react/static/media/wireless headset.2686db52e4a36637d32c.png",
+    "static/media/wired_headphones main.png": "/apple-react/static/media/wired_headphones main.183dba71dac7ba2e6ace.png",
+    "static/media/add.jpg": "/apple-react/static/media/add.cae07a02067600f24d83.jpg",
+    "static/media/buds upscaled.png": "/apple-react/static/media/buds upscaled.80a5f8d53eb5d4299bc6.png",
+    "index.html": "/apple-react/index.html",
+    "main.af9c1481.css.map": "/apple-react/static/css/main.af9c1481.css.map",
+    "main.076695d6.js.map": "/apple-react/static/js/main.076695d6.js.map",
+    "453.171ddc7f.chunk.js.map": "/apple-react/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9c1481.css",
+    "static/js/main.076695d6.js"
+  ]
+}
